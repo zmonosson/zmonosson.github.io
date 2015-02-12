@@ -4,7 +4,7 @@ header{
 
 }
 
-section{
+.section{
 	font-size:20px;
 	line-height:200%;
 }
@@ -12,6 +12,7 @@ section{
 
 ul{
 	list-style-type:circle;
-	line-height:60%;
+	line-height:120%;
 
 }
+
